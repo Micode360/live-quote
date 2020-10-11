@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/live-quote/static/css/main.c1c11922.chunk.css",
+    "main.js": "/live-quote/static/js/main.f0edd640.chunk.js",
+    "main.js.map": "/live-quote/static/js/main.f0edd640.chunk.js.map",
+    "runtime-main.js": "/live-quote/static/js/runtime-main.72afce93.js",
+    "runtime-main.js.map": "/live-quote/static/js/runtime-main.72afce93.js.map",
+    "static/js/2.097ec909.chunk.js": "/live-quote/static/js/2.097ec909.chunk.js",
+    "static/js/2.097ec909.chunk.js.map": "/live-quote/static/js/2.097ec909.chunk.js.map",
+    "index.html": "/live-quote/index.html",
+    "precache-manifest.e813302d00512525a78c0d6fc37017cc.js": "/live-quote/precache-manifest.e813302d00512525a78c0d6fc37017cc.js",
+    "service-worker.js": "/live-quote/service-worker.js",
+    "static/css/main.c1c11922.chunk.css.map": "/live-quote/static/css/main.c1c11922.chunk.css.map",
+    "static/js/2.097ec909.chunk.js.LICENSE.txt": "/live-quote/static/js/2.097ec909.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72afce93.js",
+    "static/js/2.097ec909.chunk.js",
+    "static/css/main.c1c11922.chunk.css",
+    "static/js/main.f0edd640.chunk.js"
+  ]
+}
